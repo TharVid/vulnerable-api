@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'APIQuardian'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8C3A4D49820481AB792FF7414865798 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_095AD7C6794F4EBE847E50CF7846C4BE }}
